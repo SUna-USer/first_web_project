@@ -1,0 +1,39 @@
+.divine {color: black;
+    background-color: white; 
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+    margin: 50px;
+}
+.ggg {font-size: 40px;
+    font-family: Times;
+    background-color: antiquewhite;
+    color: rgb(184, 92, 92);
+}
+.divine2 {background-color: white;
+          text-align: center;
+          margin-left: 85px;
+          margin-right: 85px;
+}
+.divine3 {background-image: url('../img/image1.jpg');
+          background-size: cover;
+
+}
+.divine {color: black;
+    background-color: white; 
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+    margin: 50px;
+}
+.divine7 {font-family: Arial;
+          background-color: antiquewhite;
+          color: rgb(184, 92, 92);
+          font-size: 20px;
+}
+nav {
+     opacity: 80%;
+     position: sticky;
+     top: 0;
+     
+}
